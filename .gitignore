@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Twilio/FileContentIndex
+/.vs/Twilio/v17
+/.vs
+/Twilio.Test/bin/Debug/net7.0
+/Twilio.Test/obj
